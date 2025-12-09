@@ -1,4 +1,4 @@
 # Google-d11.org
 The method
 
-[Google](google.com)
+[google](https://www.google.com/)
